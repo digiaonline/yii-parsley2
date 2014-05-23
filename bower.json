@@ -1,0 +1,13 @@
+{
+  "name": "yii-parsley2",
+  "version": "1.0.0",
+  "authors": [
+    "Christoffer Lindqvist <christoffer.lindqvist@nordsoftware.com>"
+  ],
+  "description": "Parsley.js v2 integration for the Yii PHP framework.",
+  "license": "BSD-3-Clause",
+  "private": true,
+  "dependencies": {
+    "parsleyjs": "~2.0.0"
+  }
+}

@@ -1,0 +1,25 @@
+{
+    "name": "nordsoftware/yii-parsley2",
+    "description": "Parsley.js v2 integration for the Yii PHP framework.",
+    "keywords": ["yii", "parsley", "client", "validation"],
+    "license": "BSD-3-Clause",
+    "authors": [
+        {
+            "name": "Christoffer Lindqvist",
+            "email": "christoffer.lindqvist@nordsoftware.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "crisu83/yiistrap": "dev-bs3"
+    },
+    "require-dev": {
+        "yiisoft/yii": ">=1.1.14"
+    },
+    "autoload": {
+        "classmap": [
+            "validators/",
+            "widgets/"
+        ]
+    }
+}
